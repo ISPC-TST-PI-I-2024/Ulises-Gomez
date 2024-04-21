@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/Pc/Documents/ISPC/ULISESGOMEZPI/U1TP2/Simulacion",
+            ],
+            "defines": [],
+            "compilerPath": "C:/Ruta/Al/Compilador/De/C++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "ms-vscode.cpptools"
+        }
+    ],
+    "version": 4
+}
